@@ -28,6 +28,7 @@ public class MovieTicket {
         }
     }
 
+
     public static void main(String[] args) {
         MovieTicket ticket = new MovieTicket("Inception");
         ticket.displayDetails();
